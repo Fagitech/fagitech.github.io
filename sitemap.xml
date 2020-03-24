@@ -3,10 +3,19 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
 	<url>
 		<loc>https://fagitech.com.br/</loc>
 		<changefreq>daily</changefreq>
 		<priority>1</priority>
+	</url>
+	<url>
+		<loc>http://fagitech.com.br/bitcoin-now</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://fagitech.com.br/ilicinea</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
 	</url>
 </urlset>
